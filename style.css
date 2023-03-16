@@ -1,7 +1,7 @@
 .chessboard {
   width: 450px;
   height: 450px;
-  display: block;
+  display: flex;
  /* flex-wrap: wrap; */
 }
 
