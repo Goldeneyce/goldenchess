@@ -1,2 +1,3 @@
 # goldenchess
 My (arguably pathetic) attempt at creating and deploying a chess game
+what do you expect from a readme file...
