@@ -1,5 +1,5 @@
 // Define chess pieces as objects
-/* const pieces = {
+ const pieces = {
   "rook": "♖",
   "knight": "♘",
   "bishop": "♗",
@@ -36,9 +36,9 @@ function renderBoard() {
 }
 
 // Call renderBoard function to display chessboard
-renderBoard(); */
+renderBoard(); 
 
-
+/*
 // update 1
 
 // Define chess pieces as objects
@@ -291,7 +291,7 @@ function isValidMove(startRow, startCol, endRow, endCol) {
     renderBoard();
   }
 
-  init();
+  init();. */
 
 
 
